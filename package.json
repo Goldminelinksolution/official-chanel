@@ -2,7 +2,7 @@
   "name": "official-chanel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Goldminelinksolution.github.io/official-chanel",
+  "homepage": "https://goldminelinksolution.github.io/official-chanel",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

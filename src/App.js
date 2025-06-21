@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "./logo.jpg"; // Ensure you have a logo image in the src directory
+import Logo from "./Logo.jpg"; // Ensure you have a logo image in the src directory
 
 const App = () => {
   return (

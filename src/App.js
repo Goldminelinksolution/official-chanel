@@ -1,4 +1,5 @@
 import React from "react";
+import Logo from "./logo.jpg"; // Ensure you have a logo image in the src directory
 
 const App = () => {
   return (
@@ -64,7 +65,11 @@ const App = () => {
       `}</style>
 
       <header>
-        {/* <img src="your-logo.png" alt="GoldMine Logo" style={{ maxHeight: "80px", marginBottom: "1rem" }} /> */}
+        <img
+          src={Logo}
+          alt="GoldMine Logo"
+          style={{ maxHeight: "80px", marginBottom: "1rem" }}
+        />
         <h1>GoldMine Link Solution</h1>
         <p>Empowering Businesses Through CRM, Training, and Coaching</p>
       </header>

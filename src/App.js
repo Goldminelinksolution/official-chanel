@@ -86,7 +86,6 @@ const App = () => {
           </p>
           <p>
             <strong>Email:</strong>{" "}
-            <a href="mailto:wayne@inforlink.net">wayne@inforlink.net</a>,{" "}
             <a href="mailto:sherrymcaw1960@gmail.com">
               sherrymcaw1960@gmail.com
             </a>

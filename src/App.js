@@ -105,7 +105,7 @@ const App = () => {
               </ul>
             </li>
             <li>
-              <strong>Quotation System</strong>
+              <strong>Quotewerks Quotation System</strong>
             </li>
             <li>
               <strong>Training</strong>
